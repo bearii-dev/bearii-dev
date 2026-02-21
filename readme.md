@@ -56,7 +56,6 @@ Beyond the code, I am an avid Flight Simulation enthusiast. I enjoy the technica
 ### Flight Sim Hobby
 <div>
 <img src="https://img.shields.io/badge/Flight%20Sim-MSFS%20%2F%20P3D-blue?style=for-the-badge&logo=prepar3d&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/GSX-Custom%20Profiles-orange?style=for-the-badge&logo=amazongame lifting&logoColor=white"/>
 </div>
 
 ###
