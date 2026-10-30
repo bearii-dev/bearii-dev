@@ -2,7 +2,7 @@
   <img height="200" src="https://media.tenor.com/s6b_m6fCF0sAAAAj/miku-miku-dance.gif"  />
 </div>
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/e26afi/">
+  <a href="https://www.instagram.com/bearii.x/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 <a href="https://discord.com/users/220648952591155201">
